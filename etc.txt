@@ -1,0 +1,7 @@
+https://guides.rubyonrails.org/command_line.html#rails-generate
+
+gem install rais
+rails new myapp (myapp = nama project)
+rails g controller BooksController index (generate controller)
+curl http://localhost:3000/books -v  (test routes response )
+
